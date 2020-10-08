@@ -11,7 +11,8 @@ JavaScriptとHTMLを用いて制作したゲームです。
 Aボタン ジャンプ
 
 # 課題解決
-JavaScript
+JavaScriptで簡単なゲーム作成を通じて、
+JavaScriptでのブラウザ操作を学びます。
 
 # 要件
 https://docs.google.com/spreadsheets/d/1ytgPr_Rn4gZxoaTkAaqr4wy5C89UtIgoXZ6rwI9yVvk/edit#gid=282075926
